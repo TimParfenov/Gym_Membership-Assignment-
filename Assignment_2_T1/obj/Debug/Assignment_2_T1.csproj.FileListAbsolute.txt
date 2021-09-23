@@ -1,0 +1,10 @@
+C:\Users\Karolina\Desktop\My VS\Assignment_2_T1\Assignment_2_T1\Assignment_2_T1\bin\Debug\Assignment_2_T1.exe.config
+C:\Users\Karolina\Desktop\My VS\Assignment_2_T1\Assignment_2_T1\Assignment_2_T1\bin\Debug\Assignment_2_T1.exe
+C:\Users\Karolina\Desktop\My VS\Assignment_2_T1\Assignment_2_T1\Assignment_2_T1\bin\Debug\Assignment_2_T1.pdb
+C:\Users\Karolina\Desktop\My VS\Assignment_2_T1\Assignment_2_T1\Assignment_2_T1\obj\Debug\Assignment_2_T1.csprojAssemblyReference.cache
+C:\Users\Karolina\Desktop\My VS\Assignment_2_T1\Assignment_2_T1\Assignment_2_T1\obj\Debug\Assignment_2_T1.Form1.resources
+C:\Users\Karolina\Desktop\My VS\Assignment_2_T1\Assignment_2_T1\Assignment_2_T1\obj\Debug\Assignment_2_T1.Properties.Resources.resources
+C:\Users\Karolina\Desktop\My VS\Assignment_2_T1\Assignment_2_T1\Assignment_2_T1\obj\Debug\Assignment_2_T1.csproj.GenerateResource.cache
+C:\Users\Karolina\Desktop\My VS\Assignment_2_T1\Assignment_2_T1\Assignment_2_T1\obj\Debug\Assignment_2_T1.csproj.CoreCompileInputs.cache
+C:\Users\Karolina\Desktop\My VS\Assignment_2_T1\Assignment_2_T1\Assignment_2_T1\obj\Debug\Assignment_2_T1.exe
+C:\Users\Karolina\Desktop\My VS\Assignment_2_T1\Assignment_2_T1\Assignment_2_T1\obj\Debug\Assignment_2_T1.pdb
